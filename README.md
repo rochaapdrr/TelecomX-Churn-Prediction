@@ -90,7 +90,6 @@ Alguns fatores associados ao churn incluem:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ---
 
