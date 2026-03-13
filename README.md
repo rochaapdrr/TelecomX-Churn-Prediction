@@ -2,7 +2,9 @@
 
 Projeto de **Machine Learning** desenvolvido para prever a evasão de clientes (Churn) em uma empresa fictícia de telecomunicações.
 
-Este projeto faz parte do **Challenge de Data Science da Alura + Oracle ONE** e tem como objetivo aplicar técnicas de análise de dados e modelagem preditiva para identificar clientes com maior probabilidade de cancelar seus serviços.
+Este projeto é a parte 2 da análise exploratória e limpeza dos dados e você pode encontrá-la aqui: https://github.com/rochaapdrr/TelecomX-Churn-Analysis  
+
+Essa parte tem como objetivo aplicar técnicas de preparação dos dados e modelagem preditiva para identificar clientes com maior probabilidade de cancelar seus serviços.
 
 ---
 
